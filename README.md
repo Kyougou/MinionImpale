@@ -1,0 +1,2 @@
+# MinionImpale
+Minion impale calculator
